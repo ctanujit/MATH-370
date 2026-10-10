@@ -1,5 +1,6 @@
-# MATH-370
-Data Science and Machine Learning
+# MATH-370: Data Science and Machine Learning
+
+![Poster](https://github.com/ctanujit/MATH-370/blob/main/Banner.png)
 
 A folder named Data Science contains the data and codes used during class demonstrations. 
 
