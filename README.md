@@ -2,6 +2,20 @@
 
 ![Poster](https://github.com/ctanujit/MATH-370/blob/main/Banner.png)
 
+Course Name: Machine Learning (ML)
+
+Participants: BSc Mathematics and Data Science (L3) students 
+
+Institution: Sorbonne University
+
+Instructor: Dr. Tanujit Chakraborty
+
+Timeline: January to May
+
+Total Teaching: 60 Sessions 
+
+Email: ctanujit@gmail.com​
+
 The Data Science folder contains the data and code used during class demonstrations. 
 
 The Machine Learning folder contains the slides used in class. 
