@@ -59,6 +59,10 @@ This course will be taught using slides, lecture notes, tutorials, papers, and P
 **Some Interesting Papers / Webpages For Reading:**
 
 • Machine Learning - Machine learning: Trends, perspectives, and prospects Paper in Science (2015): https://www.cs.cmu.edu/~tom/pubs/Science-ML-2015.pdf
+
 • ​Deep Learning - Deep Learning Review Paper in Nature (2015): https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+
 • Math Refresher - Mathematics for Machine Learning (2018): https://gwthomas.github.io/docs/math4ml.pdf
+
+
 
